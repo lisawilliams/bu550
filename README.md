@@ -30,9 +30,9 @@ is a critical professional skill.
 
 ## How do I file an issue?
 
-You file your issues by visiting our (class repo)[https://github.com/lisawilliams/bu550/issues] and clicking on the [Issues tab](https://github.com/lisawilliams/bu550/issues).
+You file your issues by visiting our [class repo](https://github.com/lisawilliams/bu550/issues) and clicking on the [Issues tab](https://github.com/lisawilliams/bu550/issues).
 
-Once you visit the Issues tab for our class repository, you click the button that says
+Once you [visit the Issues tab](https://github.com/lisawilliams/bu550/issues) for our class repository, you click the button that says
 "New Issue" and describe your issue.
 
 ### Read before you write your first issue
@@ -60,7 +60,7 @@ what you tried to fix it, what you Googled, and the current state -- you'll ofte
 during that process *you yourself* will figure out what went wrong and be able to fix it. If you do -- publish the issue anyway!
 
 By using Slack and Github, you are also using tools that forward-thinking employers will see as
-a valuable part of the skill package you can bring to their organization. 
+a valuable part of the skill package you can bring to their organization.
 
 **IMPORTANT**
 

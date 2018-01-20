@@ -50,6 +50,16 @@ Once you [visit the Issues tab](https://github.com/lisawilliams/bu550/issues) fo
 * Anything you tried to fix the problem.
 * What you Googled, and what you found out from Googling (I won't answer your issue until you can show me you tried to fix it, or find information about how to fix it, on your own).
 
+### ONE ISSUE PER ISSUE
+
+Each issue you file must contain only *one* problem you are trying to fix.
+
+*Good: "When we changed our theme, videos disappeared"*
+
+*Bad: "When we changed our theme, videos disappeared. We also want to pick a new plugin for maps"*
+
+**Never put a list of unrelated problems in an issue.** An issue should tackle only ONE problem you are having. 
+
 ### Why write an issue? Why not just ask my instructor?
 
 Programmers and other tech folk have a phrase: "Rubber Ducking." Rubber ducking is the process of

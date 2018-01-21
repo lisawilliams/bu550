@@ -1,7 +1,7 @@
 # BU Journalism 550/704 Project Issue Queue
 
 This repository exists to support an issue queue for projects and Wordpress sites created by student
-teams in [BU Journalism 550: Advanced Online Journalism](http://bujournalism.com/jo550/) and [BU Journalism 704: Advanced Online Journalism](http://bujournalism.com/j0704).
+teams in [BU Journalism 550: Advanced Online Journalism](http://bujournalism.com/jo550/) and [BU Journalism 704: Advanced Online Journalism](http://bujournalism.com/jo704).
 
 ## About Advanced Online Journalism
 

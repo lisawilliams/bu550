@@ -1,11 +1,11 @@
-# BU Journalism 550 Project Issue Queue
+# BU Journalism 550/704 Project Issue Queue
 
-This repository exists to support an issue queue for projects created by student
-teams in [BU Journalism 550: Advanced Online Journalism](http://bujournalism.com/jo550/).
+This repository exists to support an issue queue for projects and Wordpress sites created by student
+teams in [BU Journalism 550: Advanced Online Journalism](http://bujournalism.com/jo550/) and [BU Journalism 704: Advanced Online Journalism](http://bujournalism.com/j0704).
 
-## About BU 550
+## About Advanced Online Journalism
 
-BU Journalism 550 is an advanced online journalism course offered by Boston
+Advanced Online Journalism is an advanced online journalism course offered by Boston
 University's College of Communications. Part of our mission in this course is
 to help you experience tools and ways of working that you will encounter
 in the industry as you join teams doing digital-first news projects.
@@ -43,6 +43,7 @@ Once you [visit the Issues tab](https://github.com/lisawilliams/bu550/issues) fo
 *In every issue, you should include the following:*
 
 * Your team name
+* Your section (550, 704)
 * The URL I should be looking at to help you with your problem
 * A description of what you were trying to do. Include any plugins, tools or libraries you are using to do this, and links to them.
 * The results you expected to get when you were trying to do it.
@@ -58,7 +59,7 @@ Each issue you file must contain only *one* problem you are trying to fix.
 
 *Bad: "When we changed our theme, videos disappeared. We also want to pick a new plugin for maps"*
 
-**Never put a list of unrelated problems in an issue.** An issue should tackle only ONE problem you are having. 
+**Never put a list of unrelated problems in an issue.** An issue should tackle only ONE problem you are having.
 
 ### Why write an issue? Why not just ask my instructor?
 

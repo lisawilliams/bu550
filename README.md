@@ -59,19 +59,33 @@ Each issue you file must contain only *one* problem you are trying to fix.
 
 *Bad: "When we changed our theme, videos disappeared. We also want to pick a new plugin for maps"*
 
-**Never put a list of unrelated problems in an issue.** An issue should tackle only ONE problem you are having.
+**Never put a list of unrelated problems in an issue.** An issue should tackle only ONE problem you are having. Got more than one issue? File more than one issue.
 
 ### Why write an issue? Why not just ask my instructor?
 
-Programmers and other tech folk have a phrase: "Rubber Ducking." Rubber ducking is the process of
-working through and solving your own issue by explaining it to...a rubber duck.
+
+**Documenting Your Issues Helps You Solve Them Yourself**
 
 When you write a solid issue -- in which you describe exactly what you did, what happened next,
 what you tried to fix it, what you Googled, and the current state -- you'll often find that
 during that process *you yourself* will figure out what went wrong and be able to fix it. If you do -- publish the issue anyway!
 
+**Documenting Your Issue And How You Solved It Helps Others**
+
+Not writing up your issue -- and documenting how you solved it -- means that your fellow students will not get the benefit of your experience.
+
+**Documenting Your Issue and Then Filing It In Slack Gives You Good Habits**
+
+If you really want technical co-workers to dislike you, walk up to their desk every time you have a problem and say, "Do you have a minute? I just need one small change." If you are going to work well with technical collaborators, you need to learn how to ask for help in a way that doesn't prevent them from getting work done. A constant stream of interruptions damages their ability to do their work. If you want their respect, write a solid, well-documented single issue, and submit it via the right channel.
+
+**Documenting Your Issues and Using Slack Makes You Look Good To Potential Employers**
+
 By using Slack and Github, you are also using tools that forward-thinking employers will see as
 a valuable part of the skill package you can bring to their organization.
+
+**Documenting Your Issues Means You Have A Github Account**
+
+...which means you're one step closer to coding.
 
 **IMPORTANT**
 

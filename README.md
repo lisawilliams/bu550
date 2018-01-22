@@ -1,11 +1,11 @@
 # BU Journalism 550/704 Project Issue Queue
 
 This repository exists to support an issue queue for projects and Wordpress sites created by student
-teams in [BU Journalism 550: Advanced Online Journalism](http://bujournalism.com/jo550/) and [BU Journalism 704: Advanced Online Journalism](http://bujournalism.com/jo704).
+teams in [BU Journalism 550: Advanced Online Journalism](http://bujournalism.com/jo550/) and [BU Journalism 704: Online Journalism](http://bujournalism.com/jo704).
 
-## About Advanced Online Journalism
+## About these courses
 
-Advanced Online Journalism is an advanced online journalism course offered by Boston
+JO 550 and 704 are online journalism courses offered by Boston
 University's College of Communications. Part of our mission in this course is
 to help you experience tools and ways of working that you will encounter
 in the industry as you join teams doing digital-first news projects.

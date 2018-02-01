@@ -51,6 +51,10 @@ Once you [visit the Issues tab](https://github.com/lisawilliams/bu550/issues) fo
 * Anything you tried to fix the problem.
 * What you Googled, and what you found out from Googling (I won't answer your issue until you can show me you tried to fix it, or find information about how to fix it, on your own).
 
+### WARNING
+
+Do not put usernames, passwords, or API keys in your issue! Issues are public and can be seen on the web by anybody. 
+
 ### ONE ISSUE PER ISSUE
 
 Each issue you file must contain only *one* problem you are trying to fix.

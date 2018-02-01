@@ -42,7 +42,7 @@ Once you [visit the Issues tab](https://github.com/lisawilliams/bu550/issues) fo
 
 *In every issue, you should include the following:*
 
-* Your team name
+* Your team name (if a team project)
 * Your section (550, 704)
 * The URL I should be looking at to help you with your problem
 * A description of what you were trying to do. Include any plugins, tools or libraries you are using to do this, and links to them.
@@ -53,7 +53,7 @@ Once you [visit the Issues tab](https://github.com/lisawilliams/bu550/issues) fo
 
 ### WARNING
 
-Do not put usernames, passwords, or API keys in your issue! Issues are public and can be seen on the web by anybody. 
+Do not put usernames, passwords, or API keys in your issue! Issues are public and can be seen on the web by anybody.
 
 ### ONE ISSUE PER ISSUE
 

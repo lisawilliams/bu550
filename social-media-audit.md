@@ -88,9 +88,9 @@ why they are no longer updated? <br>
 
 Tools to use to gather information for your social media audit:
 
-[Brand24](http://brand24.com)
-[Twittercounter](http://twittercounter.com)
-[Tweetdeck](http://tweetdeck.com)
-[Tweetstats](http://tweetstats.com)
-[Tweetreach](http://tweetreach.com)
-[Buzzsumo](http://buzzsumo.com/)
+[Brand24](http://brand24.com)<br>
+[Twittercounter](http://twittercounter.com)<br>
+[Tweetdeck](http://tweetdeck.com)<br>
+[Tweetstats](http://tweetstats.com)<br>
+[Tweetreach](http://tweetreach.com)<br>
+[Buzzsumo](http://buzzsumo.com/)<br>

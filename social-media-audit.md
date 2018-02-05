@@ -33,14 +33,16 @@ in the #newstracker channel of our class's Slack workspace.
 
 ### Overall
 Do they have a social media editor? Who are they and what is their Twitter handle?<br>
-Do they have a published social media policy?<br>
+Do they have a published social media policy? Link:<br>
 Have you been able to find any articles, blog posts, or videos of talks where people
-who work for the organization you follow? If so, what did you discover from them?<br>
+who work for the organization you follow? If so, what did you discover from them?
+If you find them, include links.<br>
 
 ### Twitter
 
 Primary Account:<br>
-Number of followers today:  Historical (use Tweetstats.com)<br>
+Number of followers today:  <br>
+Historical (use Tweetstats.com)<br>
 Average # tweets per day from the core account over the week you followed:<br>
 What was their most highly engaged tweet over the week you followed?<br>
 Would you describe their Twitter presence as highly conversational? Are they
@@ -56,9 +58,10 @@ What is their reach?<br>
 
 Link to primary profile:<br>
 Number of friends/fans:<br>
-Average number of posts per week over past month<br>
-Number of comments on most commented post over the past month<br>
-Most shared post over the past month.<br>
+Average number of posts per week over past month:<br>
+Number of comments on most commented post over the past month:<br>
+Most shared post over the past month:<br>
+Most shared post over the past year: (Hint, one of the tools below can tell you this):<br>
 Is the organization actually conversing with people in the comments on posts?<br>
 Describe the use of video, photos, and audio.<br>
 Are they using Facebook Groups for communities around a particular topic or story?<br>

@@ -35,7 +35,8 @@ in the #newstracker channel of our class's Slack workspace.
 Do they have a social media editor? Who are they and what is their Twitter handle?<br>
 Do they have a published social media policy? Link:<br>
 Have you been able to find any articles, blog posts, or videos of talks where people
-who work for the organization you follow? If so, what did you discover from them?
+who work for the organization you follow discuss the organization's social strategy?
+If so, what did you discover from them?
 If you find them, include links.<br>
 
 ### Twitter
